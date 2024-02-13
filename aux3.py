@@ -1,0 +1,7 @@
+frutas =set ([])
+frutas.add ('maca')
+frutas.add ('banana')
+frutas.add ('uva')
+frutas.add ('laranja')
+frutas.add ('morango')
+print (frutas)
